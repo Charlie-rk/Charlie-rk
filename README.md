@@ -1,8 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Rustam Kumar** – a passionate 3rd year Computer Science student at IIT BBS.  
-I love exploring innovative technologies, solving complex problems, and contributing to the open-source community.  
-Always eager to learn and grow, I strive to transform ideas into real-world solutions.
+Hi, I'm **Rustam Kumar** – a 3rd year Computer Science student at IIT BBS.  
 
 ---
 
